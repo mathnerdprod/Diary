@@ -2,6 +2,7 @@
 import sys
 from diary_classes import Student
 
+#students:
 students = [Student(name='Denys', surname='Potomkin', age=18),
             Student(name='Lena', surname='Partyka', age=17)]
 
